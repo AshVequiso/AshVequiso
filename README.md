@@ -1,5 +1,7 @@
 # Hi, I'm Ashley Josh V. Vequiso 👋
 
+Welcome to my GitHub profile!
+
 ## 🚀 About Me
 - 🎓 I am currently a student at CIT-U and passionate about web development  
 - 🌱 Currently learning: React, Tailwind CSS, JavaScript best practices, and responsive design  
@@ -12,7 +14,5 @@
 **Tools:** GitHub, VS Code  
 
 ## 🌐 Connect With Me
-[Portfolio](https://ashleyjoshvequiso-portfolio.vercel.app/)  
-[GitHub](https://github.com/AshVequiso)
-
-
+**Portfolio website:** https://ashleyjoshvequiso-portfolio.vercel.app/  
+**Email:** ashvequiso890@gmail.com
