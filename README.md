@@ -15,6 +15,4 @@
 [Portfolio](https://ashleyjoshvequiso-portfolio.vercel.app/)  
 [GitHub](https://github.com/AshVequiso)
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshVequiso&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshVequiso&layout=compact)
+
