@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ashley Josh V. Vequiso 👋
 
-<!--
-**AshVequiso/AshVequiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 I am currently a student at CIT-U and passionate about web development  
+- 🌱 Currently learning: React, Tailwind CSS, JavaScript best practices, and responsive design  
+- 🎯 Goal: Build clean, scalable, and user-friendly web apps  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+**Programming Languages:** JavaScript, Python  
+**Frontend:** HTML, CSS, React, Tailwind CSS  
+**Backend:** Spring Boot  
+**Tools:** GitHub, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me
+[Portfolio](https://ashleyjoshvequiso-portfolio.vercel.app/)  
+[GitHub](https://github.com/AshVequiso)
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshVequiso&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshVequiso&layout=compact)
