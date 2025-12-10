@@ -2,6 +2,7 @@ Welcome to my GitHub profile!
 
 # Hi, I'm Ashley Josh V. Vequiso 👋
 
+
 ## 🚀 About Me
 - 🎓 I am currently a student at CIT-U and passionate about web development  
 - 🌱 Currently learning: React, Tailwind CSS, JavaScript best practices, and responsive design  
