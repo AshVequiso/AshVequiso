@@ -15,5 +15,4 @@ Welcome to my GitHub profile!
 
 ## 🌐 Connect With Me
 **Portfolio website:** https://www.ashleyjoshvequiso.com/
-
 **Email:** ashvequiso890@gmail.com
