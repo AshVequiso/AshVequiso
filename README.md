@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 - 🎓 I am currently a student at CIT-U and passionate about web development  
-- 🌱 Currently learning: React, Tailwind CSS, JavaScript best practices, and responsive design  
+- 🌱 Currently learning: Next.js
 - 🎯 Goal: Build clean, scalable, and user-friendly web apps  
 
 ## 🛠 Tech Stack
