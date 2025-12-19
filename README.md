@@ -14,6 +14,6 @@ Welcome to my GitHub profile!
 **Tools:** GitHub, VS Code  
 
 ## 🌐 Connect With Me
-**Portfolio website:** https://www.ashleyjoshvequiso.com/
+**Portfolio website:** ashleyjoshvequiso.com
 
 **Email:** ashvequiso890@gmail.com
