@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 ## 🛠 Tech Stack
 **Programming Languages:** JavaScript, Python  
 **Frontend:** HTML, CSS, React, Tailwind CSS  
-**Backend:** Spring Boot  
+**Backend Frameworks:** Spring Boot  
 **Tools:** GitHub, VS Code  
 
 ## 🌐 Connect With Me
