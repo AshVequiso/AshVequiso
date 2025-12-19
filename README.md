@@ -9,9 +9,8 @@ Welcome to my GitHub profile!
 - 🎯 Goal: Build clean, scalable, and user-friendly web apps  
 
 ## 🛠 Tech Stack
-**Programming Languages:** JavaScript, Python  
-**Frontend:** HTML, CSS, React, Tailwind CSS  
-**Backend Frameworks:** Spring Boot  
+**Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
+**Backend:** Spring Boot  
 **Tools:** GitHub, VS Code  
 
 ## 🌐 Connect With Me
