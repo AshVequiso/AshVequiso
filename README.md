@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 ## 🛠 Tech Stack
 **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
 **Backend:** Spring Boot  
-**Tools:** GitHub, VS Code  
+**Tools:** GitHub, VS Code, Figma
 
 ## 🌐 Connect With Me
 **Portfolio website:** https://www.ashleyjoshvequiso.com/
