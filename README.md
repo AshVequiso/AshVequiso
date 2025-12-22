@@ -4,7 +4,7 @@
 I'm a 4th year student at CIT-U with a strong passion for web development. Currently, I'm focused on mastering **JavaScript**.
 
 ## 🛠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+- **Frontend:** JavaScript, React, Tailwind CSS, HTML, CSS
 - **Backend:** Spring Boot
 - **Tools:** GitHub, VS Code, Figma
 
