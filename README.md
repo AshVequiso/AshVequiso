@@ -1,7 +1,7 @@
 # Hi, I'm Ashley Josh V. Vequiso 👋
 
 ## 🙋‍♂️ About Me
-I'm a 4th year student at CIT-U with a strong passion for web development. Currently, I'm focused on mastering **JavaScript**.
+I'm a 4th year BSIT student at CIT-U with a strong passion for web development. Currently, I'm focused on mastering **JavaScript**.
 
 ## 💻 Tech Stack
 - **Frontend:** JavaScript, React, Tailwind CSS
