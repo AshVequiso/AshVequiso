@@ -1,19 +1,18 @@
-Welcome to my GitHub profile!
-
 # Hi, I'm Ashley Josh V. Vequiso 👋
 
-
 ## 🚀 About Me
-- 🎓 I am currently a student at CIT-U and passionate about web development  
-- 🌱 Currently learning: Next.js
-- 🎯 Goal: Build clean, scalable, and user-friendly web apps  
+I'm a 4th year student at CIT-U with a strong passion for web development. Currently, I'm focused on mastering **JavaScript**.
 
 ## 🛠 Tech Stack
-**Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
-**Backend:** Spring Boot  
-**Tools:** GitHub, VS Code, Figma
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+- **Backend:** Spring Boot
+- **Tools:** GitHub, VS Code, Figma
 
-## 🌐 Connect With Me
-**Portfolio website:** https://www.ashleyjoshvequiso.com/
+## 🎮 Hobbies
+- Playing video games
+- Exploring new tech and tools for web development
+- Listening to music
 
-**Email:** ashvequiso890@gmail.com
+## 🌐 Connect
+- **Portfolio:** [ashleyjoshvequiso.com](https://www.ashleyjoshvequiso.com/)
+- **Email:** [ashvequiso890@gmail.com](mailto:ashvequiso890@gmail.com)
