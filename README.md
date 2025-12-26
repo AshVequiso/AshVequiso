@@ -6,7 +6,7 @@ I'm a 4th year BSIT student at CIT-U with a strong passion for web development. 
 ## 💻 Tech Stack
 - **Frontend:** JavaScript, React, Tailwind CSS
 - **Backend:** Spring Boot
-- **Tools:** GitHub, VS Code, Figma
+- **Tools:** GitHub, VS Code, Figma, Postman
 
 ## 🎮 Hobbies
 - Playing video games
