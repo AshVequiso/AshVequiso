@@ -2,8 +2,6 @@
 
 ## About Me
 
-I'm a **BSIT graduate** from **CIT - University** with a strong passion for **web development**.
-
 I am passionate about creating clean, responsive, and user-friendly interfaces. I enjoy combining technology and design to build engaging digital experiences. I'm always exploring new tools and ideas to grow as a developer and designer.
 
 * 💻 Passionate about creating modern, responsive web interfaces using **React** and current frontend tools.
