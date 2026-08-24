@@ -9,9 +9,6 @@ I am passionate about creating clean, responsive, and user-friendly interfaces. 
 * 🚀 Dedicated to improving both personally and professionally.
 * 📚 Interested in building better habits, staying productive, and lifelong learning.
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AshVequiso\&theme=tokyonight\&hide_border=true)](https://git.io/streak-stats)
-
 ## 🛠️ Tech Stack
 
 ### Frontend
